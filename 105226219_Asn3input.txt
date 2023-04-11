@@ -1,0 +1,13 @@
+Team1
+5
+25 30 23 22 21
+endTeam1
+Team2
+3
+25 30 23
+endTeam2
+Team3
+1
+25
+endTeam3
+-1
